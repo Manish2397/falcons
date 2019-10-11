@@ -1,8 +1,0 @@
-numpy
-pyautogui
-imutils
-dlib
-cv2
-math
-
-Good lighting condition is recommended.
